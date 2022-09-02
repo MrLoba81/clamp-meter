@@ -1,5 +1,5 @@
 # Clamp Meter
-A simple and cheap, non invasive powermeter
+A simple, non invasive powermeter
 
 ### Part list
 * [SCT013 20A-1V](https://www.poweruc.pl/collections/split-core-current-transformers2/products/split-core-current-transformer-sct013-rated-input-5a-100a?variant=6876754837548)
@@ -23,3 +23,31 @@ A simple and cheap, non invasive powermeter
 * [7x Female Dupont to crimp](https://www.ebay.it/itm/331155852325?hash=item4d1a6d4c25:g:KLQAAOSwzhVWq8K8)
 * 2x M3 nuts
 * 2x 12mm M3 screws
+
+### Assembly
+#### Print the enclosure
+You can find the stls [here](https://github.com/MrLoba81/clamp-meter/tree/main/enclosure)
+It's suggested to use a Layer height of 0.2mm and First layer of 0.2mm Infill 12%
+I printed it with the classic PLA
+
+#### Modify the pin header of the SSD1306
+I desoldered the classic pin header from the display and soldered the 90° version, due to have less space requirements
+You che have a look [here](https://github.com/MrLoba81/clamp-meter/blob/main/images/display.jpg)
+
+### Tune the ZMPT101B
+Pay attention while performing this task due to High Alternate Voltage!!!
+
+Connect the module as shown [here](https://github.com/MrLoba81/clamp-meter/blob/main/images/ZMPT101B.jpg)
+You can open the Serial Plotter of the Arduino IDE and upload the following sketch to check if the syne wave is complete.
+```
+void setup() {  
+  Serial.begin(9600);
+}
+
+void loop() {
+  Serial.println(analogRead(A0));
+
+  delay(100);
+}
+```
+If not, ex. the waveform is cut from the top or bottom, you have to turn the potentiometer on the module to display the full waveform otherwise you'll get incorrect measurement.
