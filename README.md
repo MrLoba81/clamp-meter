@@ -25,14 +25,17 @@ A simple, non invasive powermeter
 * 2x 12mm M3 screws
 
 ### Assembly
-#### Print the enclosure
-You can find two stl [here](https://github.com/MrLoba81/clamp-meter/tree/main/enclosure)  
-It's suggested to use a Layer height of 0.2mm and First layer of 0.2mm Infill 12%  
-I printed it with the classic PLA
+The PCB is really simple, you can find the schematic [here](https://github.com/MrLoba81/clamp-meter/blob/main/schematic/ClampMeter_schema.jpg)  
+My final result is on my [instagram profile](https://www.instagram.com/mrloba81/) in this [post](https://www.instagram.com/p/Ch1pz97Maak/)
 
 #### Modify the pin header of the SSD1306
 I desoldered the classic pin header from the display and soldered the 90° version, due to have less space requirements  
 You che have a look [here](https://github.com/MrLoba81/clamp-meter/blob/main/images/display.jpg)
+
+#### The enclosure
+You can find two stl [here](https://github.com/MrLoba81/clamp-meter/tree/main/enclosure)  
+It's suggested to use a Layer height of 0.2mm and First layer of 0.2mm Infill 12%  
+I printed it with the classic PLA
 
 ### Tune the ZMPT101B
 Pay attention while performing this task due to High Alternate Voltage!!!
