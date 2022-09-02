@@ -15,7 +15,7 @@ A simple and cheap, non invasive powermeter
 * [Pin Header 90°](https://www.amazon.it/Aussel-2-54mm-Breakable-Connector-Arduino/dp/B01MDRPUFU/ref=sr_1_17_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=5G0OXWIGSXMU&keywords=pin%2Bheader%2B90%2Bgradi%2Bmale&qid=1662108595&sprefix=pin%2Bheader%2B90%2Bgradi%2Bmal%2Caps%2C139&sr=8-17-spons&th=1)
 * 2x 10KOhm resistors
 * 1x 104 ceramic capacitor
-* 1x 100uf electrolitic capacitor
+* 1x 10uf electrolitic capacitor
 * [1x Male and Female 2pin JST connector](https://www.amazon.it/CQRobot-Pieces-2-54mm-JST-XHR-Connector/dp/B01EQGNZ2I/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C73LLDUMZDPZ&keywords=jst&qid=1662109381&sprefix=jst%2Caps%2C244&sr=8-1-spons&psc=1)
 * [1x Male and Female 3pin JST connector](https://www.amazon.it/CQRobot-Pieces-2-54mm-JST-XHR-Connector/dp/B01EQGNZ2I/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C73LLDUMZDPZ&keywords=jst&qid=1662109381&sprefix=jst%2Caps%2C244&sr=8-1-spons&psc=1)
 * [1x Male and Female 4pin JST connector](https://www.amazon.it/CQRobot-Pieces-2-54mm-JST-XHR-Connector/dp/B01EQGNZ2I/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C73LLDUMZDPZ&keywords=jst&qid=1662109381&sprefix=jst%2Caps%2C244&sr=8-1-spons&psc=1)
