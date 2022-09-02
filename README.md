@@ -9,3 +9,17 @@ A simple and cheap, non invasive powermeter
 * [Power Switch](https://it.aliexpress.com/item/32813951635.html?spm=a2g0o.order_list.0.0.21ef3696thxWUk&gatewayAdapt=glo2ita) - 8.8mm X 13.3mm
 * [Fuse Holder](https://www.ebay.it/itm/291730713153)
 * [IEC-320-C8](https://www.ebay.it/itm/254880092205)
+* [Perfboard 5x7cm](https://www.amazon.it/AZDelivery-Prototipo-Breadboard-Circuit-progetti/dp/B078HV79XX/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1B4T7OKXY22JA&keywords=millefori&qid=1662108280&sprefix=millefori%2Caps%2C172&sr=8-1-spons&smid=A1X7QLRQH87QA3&th=1)
+* [3,5mm pcb female audio jack](https://www.ebay.it/itm/201058258889)
+* [AC/DC 5v 700mA](https://www.ebay.it/itm/332431319967?hash=item4d6673639f:g:ZL4AAOSw9JpcUvK0&amdata=enc%3AAQAHAAAAoK24RYejD0UpURP6y4e2oS7S%2Bev3zT%2BBxDCNzojMF3abUKjWitjZhNMoOReyx8eNTcwhip0FSz%2Fs5ZuitWlN8T2msyWbVs9j1raZCec0AtPl6JP9qMpz1dH2mj2refrOUvIaO3V2K8B%2F1wveC7XQRnYUdag0iCCLwOld0Es8B8JUI3C1hO1gmo44rl6fmJTCnwSRcbVkkqSbWzRfeDDwaqE%3D%7Ctkp%3ABk9SR8KG0NbfYA)
+* [Pin Header 90°](https://www.amazon.it/Aussel-2-54mm-Breakable-Connector-Arduino/dp/B01MDRPUFU/ref=sr_1_17_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=5G0OXWIGSXMU&keywords=pin%2Bheader%2B90%2Bgradi%2Bmale&qid=1662108595&sprefix=pin%2Bheader%2B90%2Bgradi%2Bmal%2Caps%2C139&sr=8-17-spons&th=1)
+* 2x 10KOhm resistors
+* 1x 104 ceramic capacitor
+* 1x 100uf electrolitic capacitor
+* [1x Male and Female 2pin JST connector](https://www.amazon.it/CQRobot-Pieces-2-54mm-JST-XHR-Connector/dp/B01EQGNZ2I/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C73LLDUMZDPZ&keywords=jst&qid=1662109381&sprefix=jst%2Caps%2C244&sr=8-1-spons&psc=1)
+* [1x Male and Female 3pin JST connector](https://www.amazon.it/CQRobot-Pieces-2-54mm-JST-XHR-Connector/dp/B01EQGNZ2I/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C73LLDUMZDPZ&keywords=jst&qid=1662109381&sprefix=jst%2Caps%2C244&sr=8-1-spons&psc=1)
+* [1x Male and Female 4pin JST connector](https://www.amazon.it/CQRobot-Pieces-2-54mm-JST-XHR-Connector/dp/B01EQGNZ2I/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C73LLDUMZDPZ&keywords=jst&qid=1662109381&sprefix=jst%2Caps%2C244&sr=8-1-spons&psc=1)
+* [2x Dupont 4pins](https://www.ebay.it/itm/231161797482?hash=item35d2511b6a:g:voEAAOxyj4hTIHg2)
+* [7x Female Dupont to crimp](https://www.ebay.it/itm/331155852325?hash=item4d1a6d4c25:g:KLQAAOSwzhVWq8K8)
+* 2x M3 nuts
+* 2x 12mm M3 screws
