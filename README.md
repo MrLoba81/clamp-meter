@@ -38,6 +38,7 @@ You che have a look [here](https://github.com/MrLoba81/clamp-meter/blob/main/ima
 Pay attention while performing this task due to High Alternate Voltage!!!
 
 Connect the module as shown [here](https://github.com/MrLoba81/clamp-meter/blob/main/images/ZMPT101B.jpg)
+
 You can open the Serial Plotter of the Arduino IDE and upload the following sketch to check if the syne wave is complete.
 ```
 void setup() {  
