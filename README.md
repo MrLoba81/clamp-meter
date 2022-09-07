@@ -1,5 +1,6 @@
 # Clamp Meter
-A simple, non invasive powermeter based on Arduino Nano/Every using the library [EmonLib](https://www.arduino.cc/reference/en/libraries/emonlib/) from [OpenEnergyMonitor](https://learn.openenergymonitor.org/)
+A simple, non invasive powermeter based on Arduino Nano/Every using the library [EmonLib](https://www.arduino.cc/reference/en/libraries/emonlib/) from [OpenEnergyMonitor](https://learn.openenergymonitor.org/)  
+Some nice pics [here](https://www.instagram.com/p/CiNQrXfMGJH/)
 
 ### Part list
 * [SCT013 20A-1V](https://www.poweruc.pl/collections/split-core-current-transformers2/products/split-core-current-transformer-sct013-rated-input-5a-100a?variant=6876754837548)
