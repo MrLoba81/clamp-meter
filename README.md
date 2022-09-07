@@ -68,3 +68,11 @@ Firmware is really simple, it depends on the followind libraries
         *	Adafruit GFX Library
 
 [Here](https://github.com/MrLoba81/clamp-meter/tree/main/firmware) you can find the PlatformIO project
+
+You need to adjust two *constants* in order to have correct measurements
+```
+#define VOLTAGE_CALIBRATION 260
+#define CURRENT_CALIBRATION 19
+```
+Use your multimeter, in Voltage and Current mode, to fine tune the two values  
+You can find a lot of informations on calibration and other questions on the [Open EnergyMonitor](https://learn.openenergymonitor.org/electricity-monitoring/ctac/calibration) website
