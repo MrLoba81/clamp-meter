@@ -12,6 +12,8 @@
 #define OLED_RESET -1
 #define SCREEN_I2C_ADDRESS 0x3C
 
+// To be adjusted to fine tune your measurements
+// use yout multimeter in Voltage and Current mode to find the ridght values
 #define VOLTAGE_CALIBRATION 260
 #define CURRENT_CALIBRATION 19
 
