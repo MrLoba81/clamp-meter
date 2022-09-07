@@ -54,4 +54,17 @@ void loop() {
   delay(100);
 }
 ```
-If not, ex. the waveform is cut from the top or bottom, you have to turn the potentiometer on the module to display the full waveform otherwise you'll get incorrect measurement.
+If not, ex. the waveform is cut from the top or bottom, you have to turn the potentiometer on the module to display the full waveform otherwise you'll get incorrect measurement.  
+A bad wawe [here](https://github.com/MrLoba81/clamp-meter/blob/main/images/ZMPT-BadWawe.PNG)  
+A good wawe [here](https://github.com/MrLoba81/clamp-meter/blob/main/images/ZMPT-GoodWawe.PNG)  
+Have also a look at my old [post](https://www.instagram.com/p/CN0LfA8lw_c/)  
+
+### The Firmware
+Firmware is really simple, it depends on the followind libraries
+* openenergymonitor/EmonLib@^1.1.0
+*	adafruit/Adafruit SSD1306@^2.5.7
+    * This will also install dependencies
+        * Adafruit BusIO
+        *	Adafruit GFX Library
+
+[Here](https://github.com/MrLoba81/clamp-meter/tree/main/firmware) you can find the PlatformIO project
