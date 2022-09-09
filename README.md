@@ -76,4 +76,5 @@ You need to adjust two *constants* in order to have correct measurements
 #define CURRENT_CALIBRATION 19
 ```
 Use your multimeter, in Voltage and Current mode, to fine tune the two values  
-You can find a lot of informations on calibration and other questions on the [Open EnergyMonitor](https://learn.openenergymonitor.org/electricity-monitoring/ctac/calibration) website
+You can find a lot of informations on calibration and other questions on the [Open EnergyMonitor](https://learn.openenergymonitor.org/electricity-monitoring/ctac/calibration) website  
+Clarifications about [ADC resolution limits](https://learn.openenergymonitor.org/electricity-monitoring/ct-sensors/measurement-implications-of-adc-resolution-at-low-current-values)
