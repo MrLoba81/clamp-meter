@@ -13,7 +13,7 @@
 #define SCREEN_I2C_ADDRESS 0x3C
 
 // To be adjusted to fine tune your measurements
-// use yout multimeter in Voltage and Current mode to find the ridght values
+// use yout multimeter in Voltage and Current mode to find the ridght value
 #define VOLTAGE_CALIBRATION 260
 #define CURRENT_CALIBRATION 19
 
@@ -72,21 +72,11 @@ void setup()
 void loop()
 {
   emon.calcVI(60, 2000);
-  Serial.print("CalcVI: ");
-  emon.serialprint();
+  /* Serial.print("CalcVI: ");
+  emon.serialprint(); */
 
   watt = emon.apparentPower;
   realWatt = emon.realPower;
-  if (realWatt < 0)
-  {
-    watt = 0;
-    realWatt = 0;
-    emon.Irms = 0;
-    emon.powerFactor = 0;
-  }
-  /*   kwh = (realWatt / 3600) / 1000;
-    Serial.print("KWh: ");
-    Serial.println(kwh, 8); */
 
   draw();
 }
